@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **umang.mait@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zV2fAKCWzfXwVriXICMY8Iw-IQ5quBcp/view?usp=sharing](https://drive.google.com/file/d/1zV2fAKCWzfXwVriXICMY8Iw-IQ5quBcp/view?usp=sharing)
-
 - ⚡ Fun fact **I would love to debug your code at Starbucks.**
 
 <h3 align="left">Connect with me:</h3>
