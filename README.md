@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umang Gupta</h1>
 <h3 align="center">A lone traveller from India loves to explore Tech World ..</h3>
 
-- 🔭 I’m currently working on [CampStay](https://github.com/Umang03/CampStay)
+- 🔭 I’m currently working on [AINewsapp](https://github.com/Umang03/Newsapp)
 
 - 🌱 I’m currently learning **Machine learning and Deep Learning**
 
