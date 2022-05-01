@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Deep Learning**
 
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS, Java, ReactJs,**
 
 - 📫 How to reach me **umang.mait@gmail.com**
 
